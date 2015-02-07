@@ -1,0 +1,8 @@
+slides_sources/build
+.idea
+.DS_Store
+#ignore compiled files, sublime workspace and project files
+*.pyc
+*.sublime*
+*.egg-info
+*.sqlite
